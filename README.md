@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o Caio e este é meu GitHub! 👋
+### Olá! Eu sou o Caio e este é meu GitHub! 🖥️
 ##
 
 Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
