@@ -8,6 +8,7 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
 
 Atualmente sou estudante de Desenvolvimento web na Trybe.
 
+
 ##
 <br/>
 
