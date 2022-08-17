@@ -10,6 +10,9 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
 - Jogar basquete 🏀
 - Ler livros 📚
 - Jogar 🕹️
+- Ir à praia 🏖️
+- Assistir o pôr do sol ☀️
+- Assistir documentários 📽️
 
 
 
