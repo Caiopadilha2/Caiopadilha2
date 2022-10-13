@@ -32,6 +32,8 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
  
 <div> 
   <a href="https://www.linkedin.com/in/caio-padilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br/>
+  (21) 99546-5580 
   
  <br/>
 
