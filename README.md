@@ -33,8 +33,9 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
 <div> 
   <a href="https://www.linkedin.com/in/caio-padilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br/>
-  (21) 99546-5580 
   
+  <a href="https://wa.me/5521995465580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+ 
  <br/>
 
 <h3 align="left">🔧 My Toolbox:</h3>
