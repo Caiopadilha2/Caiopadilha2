@@ -14,7 +14,7 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
 - Assistir o pôr do sol ☀️
 - Assistir documentários 📽️
 
-<h5>Sou formado em administração de empresas, cursei quatro períodos de Ciências Econômicas na Universidade Federal Fluminense e sou pós graduado em Gestão pelo BBI. Além dessa formação acadêmica, sou Cofundador da 1ª Escola de Programação e Robótica da minha cidade, Niterói/RJ. <p> Iniciamos nossas atividades em 2018 e atingimos a marca de 83 alunos matriculados. Saímos do completo zero e chegamos a essa marca em apenas um ano, sendo meu irmão o meu sócio. Se quiser saber mais sobre essa história, terei enorme prazer em contá-la! :)</h5></p>
+<h5>Sou formado em administração de empresas, cursei quatro períodos de Ciências Econômicas na Universidade Federal Fluminense e sou pós graduado em Gestão pelo BBI. <p> Além dessa formação acadêmica, sou Cofundador da 1ª Escola de Programação e Robótica da minha cidade, Niterói/RJ. Iniciamos nossas atividades em 2018 e atingimos a marca de 83 alunos matriculados. Saímos do completo zero e chegamos a essa marca em apenas um ano, sendo meu irmão o meu sócio. Se quiser saber mais sobre essa história, terei enorme prazer em contá-la! :)</h5></p>
 
 
 ##
