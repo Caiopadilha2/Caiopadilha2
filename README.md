@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Olá! Eu sou o Caio e este é meu GitHub! 🖥️</h1>
-<h3 align="center">Atualmente sou estudante de desenvolvimento Web Full-stack na Trybe</h3>
+
+<h2 align="center">Atualmente sou estudante de desenvolvimento Web Full-stack na Trybe</h2>
 
 <br/>
 
