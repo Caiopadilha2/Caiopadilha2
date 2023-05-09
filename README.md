@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">Atualmente sou estudante de desenvolvimento Web Full-stack na Trybe</h2>
+<h2 align="center">Formado em desenvolvimento Web Full-stack na Trybe</h2>
 
 <br/>
 
