@@ -65,27 +65,8 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
       height="30"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=fff"
-      alt="docker"
-      height="30"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=fff"
-      alt="jest"
-      height="30"
-    />
-  </a>
-    <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Testing%20Library-E33332?&style=for-the-badge&logo=testinglibrary&logoColor=fff"
-      alt="testing-library"
-      height="30"
-    />
-  </a>
+
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=fff"
@@ -107,27 +88,7 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
       height="30"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=fff"
-      alt="redux"
-      height="30"
-    />
-  </a>
-  <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Mocha-8D6748?&style=for-the-badge&logo=mocha&logoColor=fff"
-      alt="mocha"
-      height="30"
-    />
-  </a>
-  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Chai-A30701?&style=for-the-badge&logo=chai&logoColor=fff"
-      alt="chai"
-      height="30"
-    />
-  </a>
+
   <a href="https://www.npmjs.com/package/express" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Express-000?&style=for-the-badge&logo=express&logoColor=fff"
@@ -135,13 +96,7 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
       height="30"
     />
   </a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=fff"
-      alt="insomnia"
-      height="30"
-    />
-  </a>
+
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=fff"
