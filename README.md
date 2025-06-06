@@ -12,7 +12,7 @@ Para me conhecer mais, aqui vai uma lista de coisas que gosto de fazer:
 - Jogos eletrônicos 🕹️
 - Ir à praia 🏖️
 
-<h3>Sou formado em administração de empresas, cursei Economia na UFF/RJ e sou pós graduado em Gestão pelo BBI. <p> Além dessa formação acadêmica, sou Cofundador da 1ª Escola de Programação e Robótica da minha cidade, Niterói/RJ. Iniciamos nossas atividades em 2018 e atingimos a marca de 83 alunos matriculados. Saímos do completo zero e chegamos a essa marca em apenas um ano, sendo meu irmão o meu sócio. Se quiser saber mais sobre essa história, terei enorme prazer em contá-la! :)</h3></p>
+<h3>Sou formado em Desenvolvimento Web Full-Stack pela Trybe, com mais de 1500h de formação e mais de 30 projetos na bagagem. Além disso, sou formado em administração de empresas e sou pós graduado em Gestão pelo BBI. <p> Além dessa formação acadêmica, sou Cofundador da 1ª Escola de Programação e Robótica da minha cidade, Niterói/RJ. Iniciamos nossas atividades em 2018 e atingimos a marca de 83 alunos matriculados. Saímos do completo zero e chegamos a essa marca em apenas um ano, sendo meu irmão o meu sócio. Se quiser saber mais sobre essa história, terei enorme prazer em contá-la! :)</h3></p>
 
 
 ##
